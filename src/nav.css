@@ -1,0 +1,9 @@
+#logo{
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.pagesLink:hover {
+    color: rgb(103, 159, 224);
+    font-weight: bolder;
+}
